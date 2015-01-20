@@ -1,0 +1,13 @@
+{
+  "name": "input-elements",
+  "version": "0.0.0",
+  "keywords": "thelma, polymer, web-components",
+  "main": "input-elements.html",
+  "dependencies": {  
+    "polymer": "Polymer/polymer#~0.5.1",
+    "th-data-table": "thelmanews/th-data-table",    
+    "th-csv": "thelmanews/th-csv",
+    "th-enigma": "thelmanews/th-enigma"
+  }
+}
+
