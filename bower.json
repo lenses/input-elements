@@ -7,6 +7,7 @@
     "polymer": "Polymer/polymer#~0.5.1",
     "th-data-table": "thelmanews/th-data-table",    
     "th-csv": "thelmanews/th-csv",
+    "th-simple-api": "thelmanews/th-simple-api",
     "th-enigma": "thelmanews/th-enigma"
   }
 }
