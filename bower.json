@@ -6,9 +6,9 @@
   "dependencies": {  
     "polymer": "Polymer/polymer#~0.5.1",
     "lens-data-table": "lenses/lens-data-table",    
-    "lens-csv": "lenses/lens-csv",
-    "lens-simple-api": "lenses/lens-simple-api",
-    "lens-enigma": "lenses/lens-enigma"
+    "lens-input-csv": "lenses/lens-input-csv",
+    "lens-input-simple-api": "lenses/lens-input-simple-api",
+    "lens-input-enigma": "lenses/lens-input-enigma"
   }
 }
 
